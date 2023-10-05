@@ -2,4 +2,10 @@
 
 Grupo `DW2A`
 
-Despliegue de aplicaciones WEB
+Despliegue de aplicaciones WEB 
+
+Adrian Gallego, Huwito, Sergi Saez, Lukitux
+
+
+
+
