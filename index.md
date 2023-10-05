@@ -1,6 +1,6 @@
 # Ejemplo de `GitHub Page`
 
-> [En un lugar de la Mancha...] (https://i.pinimg.com/originals/26/7b/ec/267bec40295d02f5c6d3afe5fe4dfa73.jpg)
+[En un lugar de la Mancha...] (https://i.pinimg.com/originals/26/7b/ec/267bec40295d02f5c6d3afe5fe4dfa73.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Urna molestie at elementum eu facilisis sed. Aliquet risus feugiat in ante metus dictum at. Vestibulum sed arcu non odio euismod lacinia. Lacus vestibulum sed arcu non odio euismod lacinia at. Fames ac turpis egestas maecenas pharetra convallis. Nisi scelerisque eu ultrices vitae auctor eu augue. Quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Eget lorem dolor sed viverra ipsum nunc aliquet bibendum. Cras semper auctor neque vitae. Quis commodo odio aenean sed adipiscing diam. Scelerisque eu ultrices vitae auctor eu augue ut. A erat nam at lectus urna duis convallis convallis tellus. At varius vel pharetra vel turpis. Hendrerit dolor magna eget est lorem.
 
