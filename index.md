@@ -50,3 +50,4 @@ Esto es una imagen
 ---
 
 Cambios realizados por Cristina, Aitana y Alejandro
+Cambios por Sergio Anaya
