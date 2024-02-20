@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-20T12:20:01.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="e-VE0hbdmZmvJ9O1Q7H8" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-20T12:31:23.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eWeCtH8vxxLQU2_9neW5" version="23.1.5" type="github">
   <diagram name="Página-1" id="c04ZVbYorzEbiDTh9iGR">
     <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eHCsVr1nam7DjOxQ-WiU-1" value="cabecera" style="swimlane;whiteSpace=wrap;html=1;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="50" y="50" width="580" height="460" as="geometry" />
-        </mxCell>
-        <mxCell id="eHCsVr1nam7DjOxQ-WiU-2" value="&lt;i&gt;&lt;font color=&quot;#d1d1d1&quot;&gt;Logo NMS&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
-          <mxGeometry x="510" y="10" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eHCsVr1nam7DjOxQ-WiU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="eHCsVr1nam7DjOxQ-WiU-1" source="eHCsVr1nam7DjOxQ-WiU-2" target="eHCsVr1nam7DjOxQ-WiU-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="50" y="60" width="680" height="460" as="geometry" />
         </mxCell>
         <mxCell id="eHCsVr1nam7DjOxQ-WiU-5" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
           <mxGeometry x="50" y="80" width="150" height="220" as="geometry" />
@@ -30,6 +24,39 @@
         </mxCell>
         <mxCell id="eHCsVr1nam7DjOxQ-WiU-10" value="&lt;font color=&quot;#8c8c8c&quot;&gt;titulo h1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-5">
           <mxGeometry x="40" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-11" value="&lt;font color=&quot;#8c8c8c&quot;&gt;contenido&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#8C8C8C;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-5">
+          <mxGeometry x="35" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-12" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
+          <mxGeometry x="50" y="310" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-19" value="Menú Auxiliar&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-12">
+          <mxGeometry x="25" y="5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-20" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
+          <mxGeometry x="215" y="80" width="305" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-26" value="Formulario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-20">
+          <mxGeometry x="115" y="95" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-27" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
+          <mxGeometry x="535" y="80" width="105" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-34" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
+          <mxGeometry x="215" y="310" width="305" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-35" value="Formulario" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-34">
+          <mxGeometry x="115" y="95" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-37" value="" style="swimlane;whiteSpace=wrap;html=1;startSize=0;" vertex="1" parent="eHCsVr1nam7DjOxQ-WiU-1">
+          <mxGeometry x="535" y="250" width="105" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-2" value="&lt;i&gt;&lt;font color=&quot;#d1d1d1&quot;&gt;Logo NMS&lt;/font&gt;&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eHCsVr1nam7DjOxQ-WiU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eHCsVr1nam7DjOxQ-WiU-2" target="eHCsVr1nam7DjOxQ-WiU-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
